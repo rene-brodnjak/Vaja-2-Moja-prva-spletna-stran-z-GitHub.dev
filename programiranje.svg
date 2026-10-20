@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+ <title id="title">Razvoj prve spletne strani</title><desc id="desc">Prenosni računalnik z urejevalnikom kode HTML in CSS na temnem ozadju.</desc>
+ <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071322"/><stop offset="1" stop-color="#1b354d"/></linearGradient></defs>
+ <rect width="960" height="600" fill="url(#bg)"/>
+ <circle cx="780" cy="90" r="160" fill="#14577a" opacity=".25"/>
+ <ellipse cx="480" cy="523" rx="355" ry="30" fill="#030b14" opacity=".6"/>
+ <rect x="145" y="70" width="670" height="430" rx="20" fill="#09101a" stroke="#55718b" stroke-width="4"/>
+ <rect x="163" y="91" width="634" height="385" rx="5" fill="#17212e"/>
+ <path d="M163 96h634v30H163z" fill="#28374a"/>
+ <circle cx="181" cy="110" r="5" fill="#ff6c79"/><circle cx="199" cy="110" r="5" fill="#ffd16b"/><circle cx="217" cy="110" r="5" fill="#71d3ae"/>
+ <text x="249" y="115" font-family="monospace" font-size="13" fill="#c5d2e0">index.html — Moj prvi spletni projekt</text>
+ <path d="M163 126h42v350h-42z" fill="#1e2c3c"/>
+ <g fill="#71859b" font-family="monospace" font-size="17"><text x="177" y="163">1</text><text x="177" y="199">2</text><text x="177" y="235">3</text><text x="177" y="271">4</text><text x="177" y="307">5</text><text x="177" y="343">6</text><text x="177" y="379">7</text><text x="177" y="415">8</text></g>
+ <g font-family="monospace" font-size="19"><text x="226" y="163" fill="#6bbaff">&lt;!DOCTYPE html&gt;</text><text x="226" y="199" fill="#6bbaff">&lt;html lang=<tspan fill="#b8df89">"sl"</tspan>&gt;</text><text x="247" y="235" fill="#6bbaff">&lt;head&gt;</text><text x="269" y="271" fill="#c4d5e8">&lt;title&gt;Moja spletna stran&lt;/title&gt;</text><text x="247" y="307" fill="#6bbaff">&lt;/head&gt;</text><text x="247" y="343" fill="#6bbaff">&lt;body&gt;</text><text x="269" y="379" fill="#b8df89">&lt;h1&gt;Pozdravljen, svet!&lt;/h1&gt;</text><text x="247" y="415" fill="#6bbaff">&lt;/body&gt;</text></g>
+ <path d="M145 500h670l77 29q5 14-26 15H94q-28-1-21-15z" fill="#70869c"/><path d="M385 500h190l17 17H368z" fill="#40566c"/>
+</svg>
